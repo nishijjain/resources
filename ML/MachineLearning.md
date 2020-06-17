@@ -31,4 +31,4 @@ For a complete insights into deep learning, you can also go with [this](https://
 If you want to learn more about any particular topic, you can refer to coursera courses, they are really helpful.
 
 [This]https://www.coursera.org/learn/language-processing)| course for Natural language processing.
-[This](https://www.coursera.org/specializations/recommender-systems)| course for recommendation system.
+[This](https://www.coursera.org/specializations/recommender-systems)| course for recommender system.
