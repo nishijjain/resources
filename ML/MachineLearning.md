@@ -2,7 +2,7 @@
 
 ## Basic Crash Course
 
-For starting ML from basics, setting it up and get an idea about various things, you can follow [this](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) crash course video by Academind.
+For starting ML from basics, setting it up and get an idea about various things, you can follow [this](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) course by Andrew Ng.
 
 ## Complete Udemy Course
 
@@ -10,8 +10,7 @@ For learning deep, advanced concepts of ML and become a expert, you can go with 
 
 ## Deep Learning
 
-For a complete insights into deep learning, you can also go with [this]
-(https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/?utm_campaign=ROW-FB-DRT-Visitor-Evergreen-IN-Smartly-EN-IND_._ci__._sl_IND_._vi__._sd_All_._la_EN_._&utm_content=_._pd_2373842_._&utm_medium=udemyads&utm_source=facebook&utm_term=_._ag_in_3_day_visitors_._ad_6202619827888_._) paid udemy course.
+For a complete insights into deep learning, you can also go with [this](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/?utm_campaign=ROW-FB-DRT-Visitor-Evergreen-IN-Smartly-EN-IND_._ci__._sl_IND_._vi__._sd_All_._la_EN_._&utm_content=_._pd_2373842_._&utm_medium=udemyads&utm_source=facebook&utm_term=_._ag_in_3_day_visitors_._ad_6202619827888_._) paid udemy course.
 
 ## Topics to Cover
 
@@ -25,8 +24,11 @@ For a complete insights into deep learning, you can also go with [this]
 |7.|Support Vector Machines|
 |8.|K-Nearest-Neighbours|
 |9.|K-Means Clustering|
-|10.|Natural Language Processing|[Link](https://www.coursera.org/learn/language-processing)|
-|11.|Recommender Systems|[Link](https://www.coursera.org/specializations/recommender-systems)|
+|10.|Natural Language Processing|
+|11.|Recommender Systems|
 |12.|Tensorflow|
 
 If you want to learn more about any particular topic, you can refer to coursera courses, they are really helpful.
+
+[This]https://www.coursera.org/learn/language-processing)| course for Natural language processing.
+[This](https://www.coursera.org/specializations/recommender-systems)| course for recommendation system.
